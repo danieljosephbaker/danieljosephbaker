@@ -8,7 +8,7 @@ Hello, I’m @danieljosephbaker
   
    :arrow_forward: I am a recent graduate from the University of Michigan with a B.S. in Economics and Applied Statistics 
 
-   :arrow_forward: I am interested in data engineering and cloud infrastructue as well as 
+   :arrow_forward: I am interested in data engineering and cloud infrastructue as well as machine learning
 
 ### Skills:
 
