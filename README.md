@@ -6,7 +6,7 @@ Hello, I’m @danieljosephbaker
 
    :arrow_forward: I am originally from Midland, MI.
   
-   :arrow_forward: Soon to be graduate from the University of Michigan with a B.S. in Economics and Statistics 
+   :arrow_forward: Soon to be graduate from the University of Michigan with a B.S. in Economics and Applied Statistics 
 
    :arrow_forward: I’m interested in machine learning, data visualization, and performing high-level statistical analysis that drives insight.
 
@@ -14,7 +14,9 @@ Hello, I’m @danieljosephbaker
 
   :arrow_forward: Python, SQL, R, VBA (Excel), Stata, SAS
 
-  :arrow_forward: Visualization Software: Tableau, Power BI, and ArcGIS (also Chart.js & D3.js)
+  :arrow_forward: Visualization Software: Tableau, Power BI, and ArcGIS
+  
+  :arrow_forward: Certifications: AWS SAA-C02, AWS CLF-C01
 
 ### Contact Info:
 
