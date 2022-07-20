@@ -23,8 +23,6 @@ Hello, I’m @danieljosephbaker
   :arrow_forward: baker.joseph.daniel@gmail.com
   
   :arrow_forward: www.linkedin.com/in/bakerjosephdaniel
-  
-  :arrow_forward: [personal website]
 
 <!---
 danieljosephbaker/danieljosephbaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
