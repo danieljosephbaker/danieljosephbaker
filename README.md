@@ -1,34 +1,34 @@
 Hello, I’m @danieljosephbaker
 
-### About Me:
+#### About Me:
 
-   :arrow_forward: My name is Daniel Baker. 
+   ▶️ My name is Daniel Baker
 
-   :arrow_forward: I am originally from Midland, MI.
+   ▶️ I am originally from Midland, MI
   
-   :arrow_forward: I am a recent graduate from the University of Michigan with a B.S. in Economics and Applied Statistics 
+   ▶️ B.S. in Economics and Applied Statistics from the University of Michigan
 
-   :arrow_forward: I am interested in data engineering and cloud infrastructue as well as machine learning
+   ▶️ Interested in data engineering, cloud infrastructure, and cybersecurity
 
-### Skills:
+#### Skills:
 
-  :arrow_forward: Python, SQL, R, Stata, SAS, VBA (Excel)
+  ▶️Language: Python, SQL, R, Stata, SAS, VBA (Excel)
 
-  :arrow_forward: Visualization Software: Tableau, Power BI, and ArcGIS
+  ▶️ Visualization Software: PowerBI, Tableau, ArcGIS
   
-  :arrow_forward: Cloud Certifications: 
+  ▶️ Cloud Certifications: 
   
-  /t:arrow_forward: AWS Solutions Architect - Professional (SAP-C01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS Solutions Architect - Professional (SAP-C01)
   
-  :arrow_forward: AWS Solutions Architect - Associate (SAA-C02),
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS Solutions Architect - Associate (SAA-C02)
   
-  :arrow_forward: AWS Certified Cloud Practicioner (CLF-C01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS Certified Cloud Practicioner (CLF-C01)
 
-### Contact Info:
+#### Contact Info:
 
-  :arrow_forward: baker.joseph.daniel@gmail.com
+  ▶️ baker.joseph.daniel@gmail.com
   
-  :arrow_forward: www.linkedin.com/in/bakerjosephdaniel
+  ▶️ www.linkedin.com/in/bakerjosephdaniel
 
 <!---
 danieljosephbaker/danieljosephbaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
