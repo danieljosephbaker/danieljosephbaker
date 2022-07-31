@@ -12,11 +12,17 @@ Hello, I’m @danieljosephbaker
 
 ### Skills:
 
-  :arrow_forward: Python, SQL, R, JavaScript, Stata, SAS, VBA (Excel)
+  :arrow_forward: Python, SQL, R, Stata, SAS, VBA (Excel)
 
   :arrow_forward: Visualization Software: Tableau, Power BI, and ArcGIS
   
-  :arrow_forward: Cloud Certifications: AWS SAA-C02, AWS CLF-C01
+  :arrow_forward: Cloud Certifications: 
+  
+  :arrow_forward: AWS Solutions Architect - Professional (SAP-C01)
+  
+  :arrow_forward: AWS Solutions Architect - Associate (SAA-C02),
+  
+  :arrow_forward: AWS Certified Cloud Practicioner (CLF-C01)
 
 ### Contact Info:
 
