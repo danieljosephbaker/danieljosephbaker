@@ -18,7 +18,7 @@ Hello, I’m @danieljosephbaker
   
   :arrow_forward: Cloud Certifications: 
   
-  :arrow_forward: AWS Solutions Architect - Professional (SAP-C01)
+  /t:arrow_forward: AWS Solutions Architect - Professional (SAP-C01)
   
   :arrow_forward: AWS Solutions Architect - Associate (SAA-C02),
   
