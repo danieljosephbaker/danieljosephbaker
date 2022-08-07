@@ -30,7 +30,7 @@ Hello, I’m @danieljosephbaker
   
   ▶️ www.linkedin.com/in/bakerjosephdaniel
   
- #### Check out my portfolio here[https://github.com/danieljosephbaker/portfolio]. 
+ #### Check out my portfolio [here](https://github.com/danieljosephbaker/portfolio). 
 
 <!---
 danieljosephbaker/danieljosephbaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
