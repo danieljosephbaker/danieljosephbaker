@@ -8,7 +8,7 @@ Hello, I’m @danieljosephbaker
   
    ▶️ B.S. in Economics and Applied Statistics from the University of Michigan
 
-   ▶️ Interested in data analytics, data engineering, and cloud infrastructure
+   ▶️ Interested in data analytics, data engineering, cloud infrastructure, and cybersecurity
 
 #### Skills:
 
