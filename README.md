@@ -6,7 +6,7 @@ Hello, I’m @danieljosephbaker
 
    ▶️ I am originally from Midland, MI
   
-   ▶️ B.Sc. in Economics and Applied Statistics from the University of Michigan
+   ▶️ B.Sc. in Economics from the University of Michigan
 
    ▶️ Interested in data analytics, data engineering, cloud infrastructure, and cybersecurity
 
